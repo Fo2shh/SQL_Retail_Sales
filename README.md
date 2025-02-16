@@ -220,5 +220,5 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 
 
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/fouad-adel-b19443215/)
-- - **WhatsApp**: [Connect ](https://wa.link/8ceaat)
+-  **WhatsApp**: [Connect with me via WhatsApp](https://wa.link/8ceaat)
 
